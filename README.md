@@ -1,5 +1,6 @@
 <img width="1408" height="768" alt="Gemini_Generated_Image_kpbrs0kpbrs0kpbr (1)" src="https://github.com/user-attachments/assets/fdf32169-901b-4521-8972-d4aa829d007c" />
-# 🌤️ Aplicativo de Previsão do Tempo (CLI) 💻
+
+## 🌤️ Aplicativo de Previsão do Tempo (CLI) 💻
 
 Um aplicativo de linha de comando (CLI) simples e eficiente desenvolvido em **Python**. Ele permite consultar dados meteorológicos em tempo real para qualquer cidade do mundo utilizando as APIs gratuitas do **Open-Meteo** — sem necessidade de cadastro ou chave de API.
 
