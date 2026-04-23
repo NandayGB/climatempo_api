@@ -1,0 +1,7 @@
+# Dependências do projeto
+# Instale com: pip install -r requirements.txt
+
+requests>=2.31.0
+
+# Para executar os testes com relatório detalhado (opcional)
+pytest>=7.0.0
